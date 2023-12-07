@@ -1,0 +1,18 @@
+.card {
+    margin-top: 10px;
+    text-align: center;
+}
+mat-form-field {
+    width: 100%;
+    margin: 5px;
+    /* margin: 0 auto; Esto centra el botón horizontalmente */
+}
+
+.btnAceptar {
+    margin-right: 10px;
+    margin-left: -8px;
+}
+
+.btnVolver {
+    margin-left: 10px;
+}

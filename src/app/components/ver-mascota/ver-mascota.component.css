@@ -1,0 +1,8 @@
+.card{
+    margin-top: 5px;
+    text-align: center;
+
+}
+.card button {
+    margin: 0 auto; /* Esto centra el botón horizontalmente */
+}
